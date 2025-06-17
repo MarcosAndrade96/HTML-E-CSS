@@ -3,18 +3,28 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Listas!</title>
+    <title>Parágrafos</title>
 </head>
 <body>
-    <h1>Trabalhando com Listas!</h1>
-    <h2>Listas Ordenadas:</h2>
-    <ol type="1" start="5">
-        <li>Acordar</li>
-        <li>Tomar café</li>
-        <li>Tomar banho</li>
-        <li>Ir para o trabalho</li>
-        <li>Voltar para casa às 18:00 hrs</li>
-        <li>Dormir</li>
-    </ol>
+    <h1>Parágrafos e Quebra de Linhas!</h1>
+    <hr>
+    <p>Neste parágrafo irei quebrar a linha exatamente neste ponto. <br> viu?</p>
+    <p>Neste parágrafo vou explicar que para se usar um parágrafo é nescessário usar a tag &lt;p&gt;&lt;/p&gt;. Importante lembrar que a tag de parágrafo tem abertura e fechamento.</p>
+    <hr>
+    <h2>Negrito e Itálico!</h2>
+    <strong><p>Este parágrafo está sendo feito em negrito.</p></strong>
+    <p><em>Este parágrafo está sendo feito em itálico.</em></p><!--Este é um exemplo de comentário dentro do html-->
+    <hr>
+    <p>Exemplos de símbolos
+    &reg;
+    &euro;
+    &Delta;
+    </p>
+    <p>Exemplos de emojes
+        &#x1f596;
+        &#x1f913;
+        &#x1f44d;
+    </p>
+
 </body>
 </html>
