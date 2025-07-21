@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>mídia</title>
+</head>
+<body>
+    <h1>Reproduzindo áudio!</h1>
+    <p>Vamos reproduzir áudio em HTML5. Irei apresentar três formatos diferentes de áudio, caso nenhum dos formatos de áudio seja compatível com o navegador, irá aparecer na tela um informativo dizendo: Infelizmente seu navegador não consegue reproduzir áudio.</p>
+    <audio preload="metadata" autoplay controls >
+        <source src="midia/cash.mp3" type="audio/mpeg">
+        <source src="midia/cash.ogg" type="audio/ogg">
+        <source src="midia/cash.wav" type="audio/wav">
+        <p>Infelizmente o seu navegador não consegue reproduzir áudio <a href="midia/cash.mp3">clique no link para baixar o arquivo</a> &#x1f44d;</p>
+
+    </audio>
+</body>
+</html>
