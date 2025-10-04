@@ -1,0 +1,28 @@
+@charset "UTF-8";
+
+body{
+    background-color: rgb(103, 223, 157);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: left;
+}
+#principal{
+    text-align: center;
+    color: rgb(10, 58, 22);
+}
+h1{
+    color: rgba(28, 71, 45, 0.856);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.ex1{
+    background-color: violet;
+}
+.ex2{
+    background-color: rgba(128, 0, 0, 0.856);
+}
+.ex3{
+    background-color: gray;
+}
+p{
+    text-align: justify;
+    text-indent: 30px;
+}
