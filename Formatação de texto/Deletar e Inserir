@@ -6,13 +6,14 @@
     <title>Formatação de texto</title>
 </head>
 <body>
-    <h1>Deletar/Inserir!</h1>
+    <h1>Deletar e Inserir!</h1>
     <h2>Deletar:</h2>
     <p>Exemplo de <del>texto deletado</del></p>
     <h2>Inserir:</h2>
     <p>Exemplo de <ins>texto inserido</ins></p>
 </body>
 </html>
+
 
 
 
