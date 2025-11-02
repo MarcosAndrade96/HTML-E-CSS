@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Formatação de texto</title>
+    <title>Documento</title>
 </head>
 <body>
    <h1>Citações Simples/Citações completas!</h1>
@@ -16,3 +16,4 @@
    </blockquote>
 </body>
 </html>
+
