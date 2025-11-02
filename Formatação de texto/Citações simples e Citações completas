@@ -6,14 +6,15 @@
     <title>Documento</title>
 </head>
 <body>
-   <h1>Citações Simples/Citações completas!</h1>
-   <h2>Citações Simples!</h2>
+   <h1>Citações Simples e Completas!</h1>
+   <h2>Citações Simples:</h2>
    <p>Como dizem na internet: <q>O computador é burro, porém obediente.</q></p>
-   <h2>Citações completas!</h2>
+   <h2>Citações completas:</h2>
    <p>Segundo Elizabeth Castro em seu livro de HTML5 e CSS3: GUIA PRÁTICO E VISUAL</p>
    <blockquote cite="https://altabooks.com.br/produto/html-5-e-css-3-guia-pratico-e-visual/">
     Seja um novato em HTML e CSS ou já esteja criando sites há anos, querendo aprender sobre HTML5, CSS3 e mais, este livro tem algo para você.
    </blockquote>
 </body>
 </html>
+
 
