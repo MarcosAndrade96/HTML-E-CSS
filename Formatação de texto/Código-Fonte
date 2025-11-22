@@ -7,7 +7,8 @@
 </head>
 <body>
     <h1>Código-Fonte!</h1>
-    <p>O exemplo mono-espaçado que vamos usar hoje é: <code>Document.getElementByDI('teste')</code></p>
+    <p>O exemplo de código mono-espaçado que vamos usar hoje é: <code>Document.getElementByDI('teste')</code></p>
 </body>
 </html>
+
 
