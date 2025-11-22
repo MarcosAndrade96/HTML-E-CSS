@@ -3,10 +3,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Formatação de texto</title>
+    <title>Documento</title>
 </head>
 <body>
     <h1>Código-Fonte!</h1>
     <p>O exemplo mono-espaçado que vamos usar hoje é: <code>Document.getElementByDI('teste')</code></p>
 </body>
 </html>
+
