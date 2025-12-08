@@ -6,7 +6,7 @@
     <title>Formatação de texto</title>
     <style>
         mark{
-            background-color:aqua;
+            background-color:red;
         }
     </style>
 </head>
@@ -18,3 +18,4 @@
     <p>Irei inserir um <small>texto pequeno neste trecho específico</small></p>
 </body>
 </html>
+
