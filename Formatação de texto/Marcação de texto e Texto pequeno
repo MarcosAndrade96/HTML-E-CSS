@@ -15,9 +15,10 @@
     <h2>Marcação de texto:</h2>
     <p>Irei realizar uma marcação <mark>Neste trecho específico.</mark></p>
     <h2>Texto pequeno:</h2>
-    <p>Irei inserir um <small>texto pequeno neste trecho específico</small></p>
+    <p>Irei inserir um <small>texto pequeno neste trecho</small></p>
 </body>
 </html>
+
 
 
 
