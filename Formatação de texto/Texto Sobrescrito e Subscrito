@@ -7,10 +7,11 @@
 </head>
 <body>
     <h1>Texto Sobrescrito/Subscrito!</h1>
-    <h2>Sobrescrito!</h2>
+    <h2>Sobrescrito:</h2>
     <p>Exemplo de texto sobrescrito: 2<sup>2</sup>+3 = 7</p>
     <h2>Subscrito!</h2>
     <p>Exemplo de texto subscrito: H<sub>2</sub>O</p>
 </body>
 </html>
+
 
