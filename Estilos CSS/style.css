@@ -1,7 +1,7 @@
 @charset "UTF-8";
 
     body{
-            background-color:black;
+            background-color:green;
             font-family: Arial, Helvetica, sans-serif;
             font-size: 15px;
         }
@@ -14,4 +14,5 @@
         p{
             text-align: justify;
             color: yellow;
+
         }
