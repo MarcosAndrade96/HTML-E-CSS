@@ -6,10 +6,11 @@
     <title>Meu Documento</title>
 </head>
 <body>
-    <h1>Código-Fonte</h1>
+    <h1>Código-Fonte!</h1>
     <p>O exemplo de código mono-espaçado que vamos usar hoje é: <code>Document.getElementByDI('teste')</code></p>
 </body>
 </html>
+
 
 
 
